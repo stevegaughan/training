@@ -1,0 +1,43 @@
+Workshops & Research Support
+Reproducible Research 
+
+Getting Started with Matlab and Matlab Online
+Date:4/2/2024
+Time:1:00pm - 2:00pm
+Online:This is an online event. Event URL will be sent via registration email.
+Presenter:Steve Gaughan
+Categories:Reproducible Research
+Data science, data analysis, and data visualization can all be done within Matlab and the browser-based Matlab Online. We'll introduce basic concepts of data science, data visualization and data analysis using Matlab software.  Matlab has toolboxes for statistics, image analysis, deep learning and more.  It has a programming language built in that can be used to automate repetitive tasks and increase the reproducibility of results using loops, conditionals and functions.
+
+----
+
+Getting Started with R and R Studio
+Date:4/30/2024
+Time:1:00pm - 2:00pm
+Online:This is an online event. Event URL will be sent via registration email.
+Presenter:Steve Gaughan
+Categories:Reproducible Research
+
+Data science, data analysis, and data visualization can all be done with R and R Studio.
+We'll introduce basic concepts of R and R Studio, along with data frames and tidy data.  We'll do some exploratory data analysis and create some data visualizations.  R has a vast library of packages that greatly extend the capabilities of base R, we'll review some common R packages.  We'll discuss how R scripts can automate repetitive tasks and increase the reproducibility of results using loops, conditionals and functions.
+Please make sure you have R and R Studio installed  (Helpful instructions at https://carpentries.github.io/workshop-template/install_instructions/#r-1)
+-------
+
+Introduction to Geospatial Projects and GIS Data Analysis
+Date:5/9/2024
+Time:11:00am - 12:00pm
+Online:This is an online event. Event URL will be sent via registration email.
+Presenter:Steve Gaughan
+Categories:Reproducible Research
+
+This workshop will provide hands-on learning of mapping and GIS techniques.  We will work with geospatial data and Geographic Information Systems, geared to data analysis, maps and visualizations.  We'll work with the basics of geospatial data and discuss reproducible workflows with geospatial data and analysis.
+
+Reproducible Research 
+https://libcal.dartmouth.edu/event/12262118
+Steve Gaughan
+Steve joined Research Computing in 2015 as a GIS Specialist. He has extensive experience with Geographic Information Systems and geospatial databases.  Steve greatly enjoys teaching others and has taught workshops in GIS, Matlab, Python scripting, R scripting and Qualtrics.  
+He has experience with data science, data wrangling, data visualization and the development of reproducible workflows through coding. 
+Outside the office, you'll often find him exploring the outdoors trail running, mountain biking, skiing and spending time with his family. 
+
+
+
