@@ -34,6 +34,38 @@ This workshop will provide hands-on learning of mapping and GIS techniques.  We 
 
 Reproducible Research 
 https://libcal.dartmouth.edu/event/12262118
+
+9/28/2023 @ 11am - 12pm (Thursday) Introduction to R (Steve, zoom)
+R is a great language for data analysis and visualization!  Also, it is a great way to write reproducible workflows.  We'll work with the basics of R and RStudio, learning how to import from Excel and CSV files, how to work with data frames, how to create plots, figures and graphics, and what is meant by 'Tidy Data'.   We'll get hands-on practice with some easy coding in RStudio working with numbers, strings and other data types.  
+
+This session is designed for users just getting started with programming or using R.
+
+Instructor: Steve Gaughan, Research Computing and Data Services, ITC
+
+10/3 @ 11am - 12pm (Tuesday) Geospatial and GIS data analysis, an introduction to GIS projects (Steve, zoom)
+This workshop will provide hands-on learning of mapping and GIS techniques.  We will work with geospatial data and Geographic Information Systems, geared to data analysis, maps and visualizations.  We'll work with the basics of geospatial data and discuss reproducible workflows with geospatial data and analysis.
+
+9/27/2022 Tuesday @ 1pm Matlab Introduction (Steve Gaughan, zoom) 
+We'll introduce basic concepts of data science, data visualization and data analysis using Matlab software.  Matlab has toolboxes for statistics, image analysis, deep learning and more.  It can be used to automate repetitive tasks and increase the reproducibility of results using loops, conditionals and functions.  Matlab includes a robust programming language for scripting repeatable analytical routines. 
+
+9/29/2022 Thursday,  @ 1 pm Getting Started with R (Steve, zoom)
+R is a free, open-source programming language that is known for its approachability and for becoming an increasingly popular tool for data analysis and visualization.  In this hands-on session, we will introduce basic programming concepts using R, and show you how they can save you time and increase the reproducibility of your research. 
+
+
+10/4/2022 Tuesday @ 1 pm Getting started with Python (Steve, zoom)
+Python is a free, open-source programming language used by programmers and researchers of all levels.  In this hands-on session, we will introduce basic programming concepts using Python, and show you how they can save you time and increase the reproducibility of your research.  Sessions will use either Google Colab or Jupyter Notebooks. 
+
+10/6/2022 Thursday @ 1pm GIS for the Humanities and Social Sciences (Steve Gaughan, on campus in-person)  This workshop will examine the use of mapping and geographic information systems in the Humanities and Social Sciences, and teach the use of some basic tools and techniques to create and edit GIS data as well as query existing geospatial datasets for information.  
+
+
+10/13/2022 Thursday @ 1pm Introduction to Qualtrics (Steve, zoom)
+Want to create a survey?  Need participants to fill out an online registration or questionnaire?  Qualtrics is an advanced survey platform that allows sophisticated branching logic, distribution, and result analytics. It is a web-based tool that allows users to build surveys with drop-down selection menus, open-format questions, multiple-choice questions, Likert scales and more.  Qualtrics allows students, staff and researchers to share and collaborate on surveys with their colleagues. Users can capture qualitative insights quickly and easily through Qualtrics text tools; and, most importantly, Qualtrics meets the HIPAA, PHI, IRB and security standards.
+
+
+10/20 Thursday @ 1pm R and Python scripting for Geospatial Data Science (Steve, in person)
+We'll use R and Python to show how to work with geospatial data and create reproducible workflows, results and maps.  
+
+
 Steve Gaughan
 Steve joined Research Computing in 2015 as a GIS Specialist. He has extensive experience with Geographic Information Systems and geospatial databases.  Steve greatly enjoys teaching others and has taught workshops in GIS, Matlab, Python scripting, R scripting and Qualtrics.  
 He has experience with data science, data wrangling, data visualization and the development of reproducible workflows through coding. 
